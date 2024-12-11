@@ -1,0 +1,1 @@
+# BayanKuaforuOtomasyonu_AspNetCore8
